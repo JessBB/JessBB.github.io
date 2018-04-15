@@ -3,3 +3,6 @@ img{
   display:block; 
   width=300px;
 }
+p{
+   text-align: center; color: #0099ff;
+}
