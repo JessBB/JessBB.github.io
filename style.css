@@ -8,12 +8,15 @@ p{
    color: #0099ff;
    font-weight: 600;
    font-stretch: extra-condensed;
+   font-style:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 h2{
    text-align: center; 
    color: #00cca3;
+   font-style:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
 }
 h1{
    text-align: center; 
    color: #45d3e0;
+   fot-style:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
 }
