@@ -29,6 +29,13 @@ h3{
    display: inline;
 }
 
+a{
+   text-aline : auto;
+   color : #45d3e0;
+   font-family : 'Indie Flower', cursive;
+   display : inline;
+}
+
 body{
    background-color : #020202;
 }
