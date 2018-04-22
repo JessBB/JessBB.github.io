@@ -48,10 +48,15 @@ body{
 
 .nav a {
     display: block;
-     text-align: center;
-    border-bottom: 1px solid #45de0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 .nav{
-float: left;
-width:  150px;
+   float: left;
+   width:  150px;
+}
+
+a:hover{
+   color: 008bef;
 }
