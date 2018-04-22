@@ -42,9 +42,16 @@ body{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 60px;
+    width: 150px;
+   border: 1px solid #45de0;
 } 
 
 .nav a {
     display: block;
+     text-align: center;
+    border-bottom: 1px solid #45de0;
+}
+.nav{
+float: left;
+width:  150px;
 }
